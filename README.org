@@ -5,6 +5,6 @@ Portability library for better interaction and debugging of a running Common Lis
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/aartaka/graven-image.git |
-| commit  | c71f182                                         |
+| commit  | 2f27a42                                         |
 | systems | graven-image                                    |
 |---------+-------------------------------------------------|
