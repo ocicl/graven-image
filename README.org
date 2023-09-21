@@ -5,6 +5,6 @@ Portability library for better interaction and debugging of a running Common Lis
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/aartaka/graven-image.git |
-| commit  | de4c738                                         |
+| commit  | e8dbfab                                         |
 | systems | graven-image                                    |
 |---------+-------------------------------------------------|
